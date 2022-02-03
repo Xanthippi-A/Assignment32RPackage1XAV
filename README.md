@@ -14,7 +14,9 @@ Use the package [devtools](https://www.r-project.org/nosvn/pandoc/devtools.html)
 ```r
 install.packages("devtools")
 library(devtools)
+
 install_github("Xanthippi-A/Assignment32RPackage1XAV")
+library(Assignment32RPackage1XAV)
 ```
 
 ## Usage
@@ -27,7 +29,8 @@ cheat(x)
 ## Arguments
 
 #### x
-The question number
+	number vector defining the question to be answered
+
 
 ## Example
 
