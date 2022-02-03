@@ -29,7 +29,8 @@ cheat(x)
 ## Arguments
 
 #### x
-	number vector defining the question to be answered
+
+Number vector defining the question to be answered
 
 
 ## Example
